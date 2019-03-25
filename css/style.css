@@ -1,0 +1,20 @@
+h1{
+				text-align: center;
+			}
+			body{
+				margin-left: 10em;
+				margin-right:10em;
+			}
+			div{
+				height:300px; 
+				width: auto;
+			}
+			p{
+				text-indent: 5em;
+				width: auto;
+			}
+			img{
+				height: 200px;
+				width: 200px;
+				float:right;
+			}
